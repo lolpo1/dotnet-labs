@@ -1,0 +1,57 @@
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.exe
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.deps.json
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.json
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.dev.json
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.dll
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ref\ConsoleProgramme.dll
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.pdb
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfoInputs.cache
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfo.cs
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.CopyComplete
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.dll
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ref\ConsoleProgramme.dll
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.pdb
+C:\Users\vadim\Desktop\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.genruntimeconfig.cache
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.exe
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.deps.json
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.json
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.dev.json
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.dll
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ref\ConsoleProgramme.dll
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ClassLibrary.dll
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ClassLibrary.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.AssemblyReference.cache
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfoInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfo.cs
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.CoreCompileInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.CopyComplete
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.dll
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ref\ConsoleProgramme.dll
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.genruntimeconfig.cache
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.exe
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.deps.json
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.json
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.dev.json
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.dll
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.pdb
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ClassLibrary.dll
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\bin\Debug\net5.0\ClassLibrary.pdb
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.AssemblyReference.cache
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfoInputs.cache
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfo.cs
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.CoreCompileInputs.cache
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.CopyComplete
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.dll
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\refint\ConsoleProgramme.dll
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.pdb
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.genruntimeconfig.cache
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ConsoleProgramme\obj\Debug\net5.0\ref\ConsoleProgramme.dll

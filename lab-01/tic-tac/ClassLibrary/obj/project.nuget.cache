@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2E2KlvJ0TnfPfPWeVQfUhebDpl97q4zWqIvKkKKHa7kIVpMjN02itp0ejG3xQ4kyAvZ3tr4d1IQct1KhD/rvg==",
+  "success": true,
+  "projectFilePath": "D:\\Worker\\Desktop\\Нова папка (6)\\lab01\\Tic-tac\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Worker\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Worker\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Worker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

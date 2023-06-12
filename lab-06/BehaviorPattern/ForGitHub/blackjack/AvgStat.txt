@@ -1,0 +1,52 @@
+Time:07.05.2023 0:19:52;Player:Va;Scores:10, 10, 9;Avg:9
+
+Time:07.05.2023 0:19:54;Player:Vi;Scores:8, 10, 3;Avg:7
+
+Time:10.05.2023 21:36:15;Player:Vadim;Scores:10, 3, 10;Avg:7
+
+Time:10.05.2023 21:36:29;Player:Bot;Scores:2, 10, 5, 10;Avg:6
+
+Time:10.05.2023 21:41:29;Player:Vadim;Scores:10, 10;Avg:10
+
+Time:10.05.2023 21:41:30;Player:Bot;Scores:9, 5;Avg:7
+
+Time:10.05.2023 21:44:01;Player:Vadim;Scores:3, 10, 3;Avg:5
+
+Time:10.05.2023 21:44:01;Player:Bot;Scores:6, 7;Avg:6
+
+Time:10.05.2023 21:44:29;Player:Vadim;Scores:6, 9, 4;Avg:6
+
+Time:10.05.2023 21:44:29;Player:Bot;Scores:10, 10;Avg:10
+
+Time:10.05.2023 21:57:18;Player:Vadim;Scores:9, 11, 7, 2, 7;Avg:7
+
+Time:10.05.2023 21:57:18;Player:Bot;Scores:10, 2;Avg:6
+
+Time:10.05.2023 21:57:50;Player:Vadim;Scores:9, 2, 7;Avg:6
+
+Time:10.05.2023 21:57:50;Player:Bot;Scores:7, 10;Avg:8
+
+Time:10.05.2023 21:58:32;Player:Vadim;Scores:6, 8, 8;Avg:7
+
+Time:10.05.2023 21:58:32;Player:Bot;Scores:5, 4;Avg:4
+
+Time:10.05.2023 21:59:00;Player:Vadim;Scores:10, 6;Avg:8
+
+Time:10.05.2023 21:59:00;Player:Bot;Scores:11, 4;Avg:7
+
+Time:15.05.2023 8:42:28;Player:Vasdim;Scores:4, 10, 10;Avg:8
+
+Time:15.05.2023 8:43:08;Player:Dima;Scores:8, 11;Avg:9
+
+Time:15.05.2023 8:43:46;Player:Vadim;Scores:2, 5, 2, 7, 10;Avg:5
+
+Time:15.05.2023 8:44:09;Player:Vadim;Scores:6, 9, 10;Avg:8
+
+Time:15.05.2023 8:44:26;Player:Vadim;Scores:4, 5, 11;Avg:6
+
+Time:15.05.2023 8:44:47;Player:Dima;Scores:10, 7, 10;Avg:9
+
+Time:15.05.2023 8:45:15;Player:Vadim;Scores:9, 8, 9;Avg:8
+
+Time:15.05.2023 8:45:22;Player:Dima;Scores:4, 10, 7;Avg:7
+

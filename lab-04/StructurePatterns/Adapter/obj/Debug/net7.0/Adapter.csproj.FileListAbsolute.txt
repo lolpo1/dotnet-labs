@@ -1,0 +1,15 @@
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\bin\Debug\net7.0\Adapter.exe
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\bin\Debug\net7.0\Adapter.deps.json
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\bin\Debug\net7.0\Adapter.dll
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\bin\Debug\net7.0\Adapter.pdb
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\Adapter.dll
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\Adapter.pdb
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+D:\Worker\Desktop\Нова папка (6)\lab04\StructurePatterns\Adapter\obj\Debug\net7.0\ref\Adapter.dll

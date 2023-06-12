@@ -1,0 +1,3 @@
+[Warn] It's a warn
+[Error] It's an Er
+[Log] It's a log

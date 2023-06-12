@@ -1,0 +1,15 @@
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\bin\Debug\net7.0\Chair.exe
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\bin\Debug\net7.0\Chair.deps.json
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\bin\Debug\net7.0\Chair.runtimeconfig.json
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\bin\Debug\net7.0\Chair.dll
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\bin\Debug\net7.0\Chair.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\Chair.csproj.AssemblyReference.cache
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\Chair.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\Chair.AssemblyInfoInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\Chair.AssemblyInfo.cs
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\Chair.csproj.CoreCompileInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\Chair.dll
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\refint\Chair.dll
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\Chair.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\Chair.genruntimeconfig.cache
+E:\Study\ConstructionOfProgramming\Practice\lab06\BehaviorPattern\Chair\obj\Debug\net7.0\ref\Chair.dll

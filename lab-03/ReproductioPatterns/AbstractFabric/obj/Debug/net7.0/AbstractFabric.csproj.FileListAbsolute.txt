@@ -1,0 +1,15 @@
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\bin\Debug\net7.0\AbstractFabric.exe
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\bin\Debug\net7.0\AbstractFabric.deps.json
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\bin\Debug\net7.0\AbstractFabric.runtimeconfig.json
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\bin\Debug\net7.0\AbstractFabric.dll
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\bin\Debug\net7.0\AbstractFabric.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\AbstractFabric.csproj.AssemblyReference.cache
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\AbstractFabric.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\AbstractFabric.AssemblyInfoInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\AbstractFabric.AssemblyInfo.cs
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\AbstractFabric.csproj.CoreCompileInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\AbstractFabric.dll
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\refint\AbstractFabric.dll
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\AbstractFabric.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\AbstractFabric.genruntimeconfig.cache
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\AbstractFabric\obj\Debug\net7.0\ref\AbstractFabric.dll

@@ -1,0 +1,26 @@
+Time:6 травня 2023 р.;Player:Vit;Score:27
+
+Time:6 травня 2023 р.;Player:vit;Score:25
+
+Time:6 травня 2023 р.;Player:vlad;Score:24
+
+Time:7 травня 2023 р.;Player:Va;Score:28
+
+Time:7 травня 2023 р.;Player:Vi;Score:26
+
+Time:7 травня 2023 р.;Player:Va;Score:29
+
+Time:10 травня 2023 р.;Player:Vadim;Score:23
+
+Time:10 травня 2023 р.;Player:Bot;Score:27
+
+Time:10 травня 2023 р.;Player:Vadim;Score:26
+
+Time:10 травня 2023 р.;Player:Vadim;Score:22
+
+Time:15 травня 2023 р.;Player:Vasdim;Score:24
+
+Time:15 травня 2023 р.;Player:Dima;Score:27
+
+Time:15 травня 2023 р.;Player:Vadim;Score:26
+

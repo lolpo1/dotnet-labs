@@ -1,0 +1,16 @@
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+E:\Study\ConstructionOfProgramming\Practice\lab02\solid\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll

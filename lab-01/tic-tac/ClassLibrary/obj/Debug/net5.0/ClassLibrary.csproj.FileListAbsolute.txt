@@ -1,0 +1,36 @@
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\vadim\Desktop\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+E:\Study\ConstructionOfProgramming\Practice\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\refint\ClassLibrary.dll
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
+D:\Worker\Desktop\Нова папка (6)\lab01\Tic-tac\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll

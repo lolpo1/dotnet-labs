@@ -1,0 +1,15 @@
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\bin\Debug\net7.0\Prototype.exe
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\bin\Debug\net7.0\Prototype.deps.json
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\bin\Debug\net7.0\Prototype.runtimeconfig.json
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\bin\Debug\net7.0\Prototype.dll
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\bin\Debug\net7.0\Prototype.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\Prototype.csproj.AssemblyReference.cache
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\Prototype.AssemblyInfoInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\Prototype.AssemblyInfo.cs
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\Prototype.csproj.CoreCompileInputs.cache
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\Prototype.dll
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\refint\Prototype.dll
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\Prototype.pdb
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\Prototype.genruntimeconfig.cache
+E:\Study\ConstructionOfProgramming\Practice\lab03\ReproductionPatterns\Prototype\obj\Debug\net7.0\ref\Prototype.dll
